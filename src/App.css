@@ -31,3 +31,11 @@ button{
   align-items: center;
   margin-top: 1rem;
 }
+.color{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.color p{
+  text-decoration: none;
+}
