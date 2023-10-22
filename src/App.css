@@ -25,3 +25,9 @@ button{
   display: flex;
   justify-content: center;
 }
+.video{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
